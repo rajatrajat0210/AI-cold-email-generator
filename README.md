@@ -1,9 +1,8 @@
 # AI Cold Email Generator
 
 The **AI Cold Email Generator** is an intelligent application designed to generate personalized cold emails by leveraging advanced AI models. The tool simplifies outreach efforts for professionals by creating context-aware and engaging email drafts based on provided inputs, such as job roles or URLs.
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/AI-cold-email-generator/blob/master/ai-cold-email.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/AI-cold-email-generator/blob/master/groq-api-call.jpg?raw=true)
 
 ## 🚀 Features
 - **Dynamic Email Generation**: Generates highly personalized cold emails using LLMs.
